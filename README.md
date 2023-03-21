@@ -1,6 +1,13 @@
 ## QRCode Generator with PySide6
 
-### INSTALATION
+### CREATING ENVIRONMENT
+`python -m venv venv`
+
+`venv\Scriptis\activate` - WINDOWS
+
+`source venv/bin/activate` - UNIX
+
+### INSTALLATION DEPENDENCIES
 `pip install -r requirements.txt`
 
 ### RUN
